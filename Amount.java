@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+
 class Amount {
     private double amount;
     private String transactionType;
